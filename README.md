@@ -1,5 +1,12 @@
 # PyTorch Tensor Operations — Practical Exercise
 
+**Members**
+Patrick Augusto Pinheiro da Silva,
+Pedro Ulisses Reis de Dorneles, 
+Míriam Rodríguez Carranza 
+
+
+
 **Course:** Computer Engineering — Advanced Artificial Intelligence (IA-AVAN)  
 **Topic:** Deep Learning with PyTorch · Session 1: Tensor Operations
 
