@@ -66,13 +66,13 @@ Broadcasting across different shapes, advanced indexing/slicing, and device mana
 
 ### Part 4 — Hands-on Exercises
 
-| # | Exercise | Key function |
-|---|---|---|
-| 1 | 3×3 Identity matrix | `torch.eye(3)` |
-| 2 | Matrix multiplication (2×3) · (3×2) | `torch.matmul()` |
-| 3 | Cosine similarity between two vectors | `F.cosine_similarity()` |
-| 4 | Row normalisation (each row sums to 1) | `tensor.sum(dim=1, keepdim=True)` |
-| 5 | Euclidean distance function | `torch.sqrt(torch.sum(...))` |
+| #   | Exercise                               | Key function                      |
+| --- | -------------------------------------- | --------------------------------- |
+| 1   | 3×3 Identity matrix                    | `torch.eye(3)`                    |
+| 2   | Matrix multiplication (2×3) · (3×2)    | `torch.matmul()`                  |
+| 3   | Cosine similarity between two vectors  | `F.cosine_similarity()`           |
+| 4   | Row normalisation (each row sums to 1) | `tensor.sum(dim=1, keepdim=True)` |
+| 5   | Euclidean distance function            | `torch.sqrt(torch.sum(...))`      |
 
 ### Part 5 — Visualisation
 Heatmap of a 2-D tensor before and after a 3×3 averaging convolution (blur).
@@ -89,14 +89,14 @@ Written answers to the five theory questions from the activity specification (Q1
 
 ## Dependencies
 
-| Package | Version |
-|---|---|
-| Python | 3.9+ |
-| torch | 2.8.0 |
-| torchvision | 0.23.0 |
-| numpy | 2.0.2 |
-| matplotlib | 3.9.4 |
-| ipykernel | latest |
+| Package     | Version |
+| ----------- | ------- |
+| Python      | 3.9+    |
+| torch       | 2.8.0   |
+| torchvision | 0.23.0  |
+| numpy       | 2.0.2   |
+| matplotlib  | 3.9.4   |
+| ipykernel   | latest  |
 
 ---
 
