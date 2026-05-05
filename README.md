@@ -22,14 +22,14 @@ This project covers the fundamentals of PyTorch tensors — the core data struct
 
 ```
 TensorFlow/
-├── PyTorch.ipynb               # Main notebook (submit this)
+├── PyTorch.ipynb               # Main notebook 
 ├── PyTorch..py                 # Original Python script version
 ├── PyTorch._Activity.pdf       # Activity specification
 ├── tensor_visualization.png    # Output: original vs blurred tensor heatmap
 ├── extension_visualization.png # Output: sine-cosine surface visualisation
 ├── PRD.md                      # Product Requirements Document
 ├── .venv/                      # Python virtual environment
-└── README.md                   # This file
+└── README.md                   #  Doc File 
 ```
 
 ---
